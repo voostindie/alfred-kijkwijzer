@@ -1,5 +1,7 @@
 # Alfred Workflow: Search Kijkwijzer
 
+**Update September 2021**: as I'm not using this workflow anymore, I'm archiving it. I'm not even sure it still works.
+
 ## Introduction
 
 Fairly often I find myself searching for a movie on the [Kijkwijzer](http://www.kijkwijzer.nl) site, to determine whether my daughter is old enough to watch a certain movie or television show.
